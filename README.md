@@ -17,6 +17,11 @@ Tenemos link de referencia mas documentos Agosto 2024
 - Python  https://www.w3schools.com/python/default.asp
 - Descargar python
 - https://www.python.org/downloads/
+  
 - Programacion en online
 - https://coddy.tech/
 - ![image](https://github.com/user-attachments/assets/9bfd7b2d-29da-416d-a51f-54e3ff3ddbb3)
+
+## Diseño web con figma
+- https://www.figma.com/es-la/
+- ![image](https://github.com/user-attachments/assets/34fb91a5-a95c-4a0e-8731-33307b749dba)
